@@ -11,7 +11,7 @@ export function ServicesSection() {
         <SectionHeading
           eyebrow="What We Do"
           title="Commercial Cleaning Services"
-          description="Professional commercial and office cleaning, plus carpet cleaning and foreclosure & move-out cleaning, for Pittston and surrounding communities."
+          description="Professional commercial and office cleaning, plus carpet cleaning, foreclosure & move-out cleaning, and commercial sanitization & disinfection, for Pittston and surrounding communities."
         />
 
         <div className="mt-14 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">

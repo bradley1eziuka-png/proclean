@@ -30,6 +30,11 @@ const sources = (): FaqSource[] => [
     a: "We're based at 259 Market St in Pittston, PA, and serve Pittston and surrounding communities within approximately 50 miles.",
   },
   {
+    q: "Are you COVID-19 compliant, and do you offer sanitization?",
+    a: "Yes. Pro-Clean is COVID-19 compliant and offers hospital-grade sanitization and disinfection for commercial spaces.",
+    requiresService: "commercial-sanitization-disinfection",
+  },
+  {
     q: "How do I get a quote?",
     a: "Use the quote form on this page, call (570) 762-0082, or visit the contact page. Share a few details about your space and the service you need, and we'll follow up.",
   },

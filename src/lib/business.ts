@@ -150,7 +150,7 @@ export const business: BusinessConfig = {
   legalName: "Pro-Clean Commercial Cleaning LLC",
   tagline: "Dependable commercial and office cleaning.",
   description:
-    "Pro-Clean Commercial Cleaning LLC provides professional commercial, office, carpet, and foreclosure & move-out cleaning in Pittston, PA and surrounding communities. 16 years of industry experience. Fully bonded and insured.",
+    "Pro-Clean Commercial Cleaning LLC provides professional commercial, office, carpet, and foreclosure & move-out cleaning, plus commercial sanitization and disinfection, in Pittston, PA and surrounding communities. COVID-19 compliant with hospital-grade sanitization. 16 years of industry experience. Fully bonded and insured.",
   foundingStory: "",
   businessType: "Professional Commercial Cleaning",
   schemaType: "LocalBusiness",
@@ -182,6 +182,12 @@ export const business: BusinessConfig = {
     {
       title: "Fully Bonded & Insured",
       description: "Pro-Clean is fully bonded and insured, so your business is protected.",
+      icon: "shield",
+    },
+    {
+      title: "Hospital-Grade Sanitization",
+      description:
+        "COVID-19 compliant, with hospital-grade sanitization and disinfection for commercial spaces.",
       icon: "shield",
     },
     {

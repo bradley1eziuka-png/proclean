@@ -44,6 +44,7 @@ const POINTS = [
   "16 years of cleaning industry experience",
   "Fully bonded and insured",
   "Commercial and office cleaning specialists",
+  "COVID-19 compliant, with hospital-grade sanitization",
   "Locally owned, serving Pittston and surrounding areas",
 ];
 
@@ -71,8 +72,9 @@ function AboutPage() {
               Pro-Clean Commercial Cleaning LLC is owned by John J. DeLeo, who has 16 years of
               experience in the cleaning industry and has been running Pro-Clean for approximately
               5.5 years. Pro-Clean is fully bonded and insured and provides commercial cleaning,
-              office cleaning, carpet cleaning, and foreclosure &amp; move-out cleaning throughout
-              Pittston and surrounding communities.
+              office cleaning, carpet cleaning, foreclosure &amp; move-out cleaning, and commercial
+              sanitization &amp; disinfection throughout Pittston and surrounding communities.
+              Pro-Clean is COVID-19 compliant, with hospital-grade sanitization.
             </p>
             <ul className="mt-7 flex flex-col gap-3">
               {POINTS.map((p) => (

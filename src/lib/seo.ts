@@ -99,8 +99,8 @@ export function homeTitle(): string {
 
 export function homeDescription(): string {
   const names = services.map((s) => s.title.toLowerCase());
-  const list = names.length ? ` ${names.join(", ")}.` : "";
-  return `${business.name} provides professional commercial cleaning${loc()}, with 16 years of industry experience.${list} Fully bonded and insured. Request a free quote.`;
+  const list = names.length ? ` Services: ${names.join(", ")}.` : "";
+  return `${business.name} provides professional commercial cleaning${loc()}, with 16 years of industry experience.${list} COVID-19 compliant with hospital-grade sanitization. Fully bonded and insured. Request a free quote.`;
 }
 
 export function serviceTitle(s: Service): string {

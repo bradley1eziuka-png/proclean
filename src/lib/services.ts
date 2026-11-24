@@ -209,6 +209,47 @@ const allServices: Service[] = [
       },
     ],
   },
+  {
+    slug: "commercial-sanitization-disinfection",
+    enabled: true,
+    priority: false,
+    title: "Commercial Sanitization & Disinfection",
+    short: "Sanitization and disinfection for commercial spaces, using hospital-grade products.",
+    card: "Professional sanitization and disinfection services for commercial spaces, with hospital-grade cleaning products and attention to frequently touched surfaces.",
+    image: IMG.officeWorkstations,
+    imageAlt: "Clean, modern open-plan office workstations",
+    heroImage: IMG.officeWorkstations,
+    heroAlt: "Clean, modern open-plan office workstations",
+    eyebrow: "Sanitization & Disinfection",
+    tagline: "A cleaner, more careful workplace.",
+    intro:
+      "Pro-Clean is COVID-19 compliant and offers hospital-grade sanitization and disinfection for commercial spaces in Pittston and surrounding communities.",
+    overview:
+      "Shared workplaces have surfaces that many people touch every day. Pro-Clean's sanitization and disinfection service uses hospital-grade cleaning products and pays close attention to frequently touched surfaces. Tell us about your space and we'll provide a free quote.",
+    tasks: [
+      "Door handles, push plates, and glass doors",
+      "Light switches and shared controls",
+      "Desks, workstations, and shared equipment",
+      "Restroom fixtures and surfaces",
+      "Break room tables, counters, and appliance handles",
+      "Reception counters and waiting-area surfaces",
+    ],
+    benefits: [
+      "Hospital-grade sanitization products",
+      "COVID-19 compliant",
+      "Fully bonded and insured",
+    ],
+    faqs: [
+      {
+        q: "Are you COVID-19 compliant?",
+        a: "Yes. Pro-Clean Commercial Cleaning LLC is COVID-19 compliant and offers hospital-grade sanitization.",
+      },
+      {
+        q: "How do I get a quote for sanitization and disinfection?",
+        a: "Use the quote form or call (570) 762-0082 and share a few details about your space. We'll follow up with your free quote.",
+      },
+    ],
+  },
 ];
 
 /** Enabled services, in display order. Import this everywhere a service list is needed. */

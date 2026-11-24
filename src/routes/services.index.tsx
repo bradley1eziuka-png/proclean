@@ -26,7 +26,7 @@ function ServicesIndex() {
       <PageHero
         eyebrow="Services"
         title="Commercial Cleaning Services"
-        description="Commercial and office cleaning, carpet cleaning, and foreclosure & move-out cleaning for Pittston and surrounding communities."
+        description="Commercial and office cleaning, carpet cleaning, foreclosure & move-out cleaning, and commercial sanitization & disinfection for Pittston and surrounding communities."
         image={business.images.servicesHero.src}
         imageAlt={business.images.servicesHero.alt}
       />

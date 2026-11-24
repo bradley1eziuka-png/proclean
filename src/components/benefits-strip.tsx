@@ -1,4 +1,4 @@
-import { Award, ShieldCheck, Building2, MapPin } from "lucide-react";
+import { Award, ShieldCheck, SprayCan, MapPin } from "lucide-react";
 import { Reveal } from "@/components/reveal";
 
 const BENEFITS = [
@@ -18,9 +18,9 @@ const BENEFITS = [
     desc: "Based in Pittston, PA.",
   },
   {
-    icon: Building2,
-    title: "Commercial Specialists",
-    desc: "Commercial and office cleaning.",
+    icon: SprayCan,
+    title: "Hospital-Grade Sanitization",
+    desc: "COVID-19 compliant.",
   },
 ];
 

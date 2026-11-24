@@ -41,7 +41,8 @@ export function HomeHero() {
             <p className="mt-5 max-w-xl text-pretty text-base leading-relaxed text-muted-foreground sm:text-lg">
               With 16 years of industry experience, {business.name} provides dependable commercial
               and office cleaning services throughout Pittston and surrounding communities. Fully
-              bonded and insured.
+              bonded and insured. We also provide commercial sanitization and disinfection, and
+              we&rsquo;re COVID-19 compliant with hospital-grade sanitization.
             </p>
 
             <div className="mt-7 flex flex-col gap-3 sm:flex-row">
